@@ -1,0 +1,13 @@
+CloudsToy ChangeLog - Unity 5.
+
+v1.0 - Initial release.
+v1.1 - SpeedTrees removed from the project.
+v1.2 - Erasing preprocessor conditional compilation for Unity v4.x (not needed anymore).
+	 - Fixed Bug: The manager's position is being updated always  (so it can be moved around in runtime)
+	 - Fixed Bug: Removed name dependency on "CloudsToy Mngr" gameobject.
+v1.2.1  - Optimized CloudMovement.cs.
+		- Optimized CloudParticle.AnimatedCloud().
+		- Modified CloudsToy position checker: do NOT check anything if clouds velocity are zero.
+		- Added a PositionCheckTimer in Advanced Settings in CloudsToy (it's not a critical check so it cab be slowed down).
+  		  (Will check the clouds positions in a time interval and not every frame).
+		- Modified CloudsToy initial values so it will be less FPS expensive by default.
