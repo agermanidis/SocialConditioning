@@ -1,4 +1,4 @@
-<video src="http://i.imgur.com/kfxBdAc.mp4" width=600 autoplay loop></video>
+<img src="socialconditioning.gif" width=700>
 
 [Demo](https://vimeo.com/207685415)
 
