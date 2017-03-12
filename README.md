@@ -1,6 +1,6 @@
 <img src="socialconditioning.gif" width=700>
 
-[Demo](https://vimeo.com/207685415)
+[Demo](https://vimeo.com/207658252)
 
 ## Social Conditioning 
 
